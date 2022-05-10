@@ -10,38 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aefbad9-c9bb-4ca0-bcfb-0080f0aeb7b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/controller/KPacSetController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/controller/KPacsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/controller/SetController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/convertor/KPacEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/dao/KPacDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/dao/KPacKPacSetDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/dao/KPacSetDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/dao/impl/KPacDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/dao/impl/KPacKPacSetDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/dao/impl/KPacSetDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/dao/mapper/KPacRowMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/dao/mapper/KPacSetRowMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/model/KPac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/model/KPacSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/service/KPacService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/service/KPacSetService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/service/impl/KPacServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/auros/service/impl/KPacSetServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/kpacs.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/set.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/sets.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/auros/config/WebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/auros/config/WebAppInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +179,7 @@
       <workItem from="1652108755483" duration="620000" />
       <workItem from="1652109603904" duration="874000" />
       <workItem from="1652110501065" duration="5079000" />
-      <workItem from="1652170556636" duration="24518000" />
+      <workItem from="1652170556636" duration="25510000" />
     </task>
     <servers />
   </component>
