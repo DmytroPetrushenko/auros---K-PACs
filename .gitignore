@@ -1,9 +1,10 @@
-target/
+target/*
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
+<<<<<<< HEAD
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
@@ -11,6 +12,10 @@ target/
 .idea/
 
 .idea/workspace.xml
+=======
+.idea/*
+*.iml
+>>>>>>> 6172740e2ff476412209a60a8d6671383215894a
 *.iws
 *.iml
 *.ipr
